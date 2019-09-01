@@ -1,0 +1,67 @@
+-----------------
+Iteration number 0
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 222.79, 0.00
+-----------------
+Iteration number 1
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 19.26, 52.77
+-----------------
+Iteration number 2
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.90, 2.73
+-----------------
+Iteration number 3
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.12, 0.31
+-----------------
+Iteration number 4
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.02, 0.05
+-----------------
+Iteration number 5
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.01, 0.01
+-----------------
+Iteration number 6
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+-----------------
+Iteration number 7
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+-----------------
+Iteration number 8
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+-----------------
+Iteration number 9
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+-----------------
+Iteration number 10
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+-----------------
+Iteration number 11
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+-----------------
+Iteration number 12
+Updating goodness
+Updating fairness
+Differences in fairness score and goodness score = 0.00, 0.00
+Rater 0.9650455927051672
+Ratee 0.9946737683089214
